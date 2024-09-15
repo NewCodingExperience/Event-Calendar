@@ -1,0 +1,16 @@
+
+
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+
+}
+
+:root {
+    --bg-color: #080808;
+    --second-bg-color: #131313;
+    --text-color: white;
+    --main-color:#24B7E0;
+
+}
