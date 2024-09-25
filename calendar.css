@@ -5,6 +5,31 @@ body {
     background-color: var(--bg-color);
     color: var(--text-color);
 
+.title{
+    font-size: 50px;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    
+}
+
+.calender{
+    text-align: center;
+    font-size: 30px;
+    background-color: cornflowerblue;
+}
+
+.table, th, td{
+    font-size: 30px;
+    align-items: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+    margin: auto;
+    height: 75px;
+    text-align: center;
+    cursor: pointer;
+
+}
 }
 
 :root {
